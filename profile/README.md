@@ -1,5 +1,3 @@
-## Olá 👋
-
 🙋‍♀️ Solução integrada de software para empresas de pequeno e médio porte.
 
 <!--
