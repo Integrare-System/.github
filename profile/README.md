@@ -4,7 +4,7 @@
 
 🧙 Quer saber mais? [Acesse nosso site](https://integraresystem.com.br/)
 
-🍿 Fundada em Junho de 2011
+🍿 No mercado desde 2011
 <!--
 
 **Here are some ideas to get you started:**
